@@ -1,6 +1,6 @@
 {
   "name": "pilotproj",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Teste de Frontend",
   "main": "src/index.html",
   "scripts": {
