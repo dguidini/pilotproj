@@ -1,0 +1,27 @@
+{
+  "name": "pilotproj",
+  "version": "0.0.1",
+  "description": "Teste de Frontend",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dguidini/pilotproj.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "David Guidini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dguidini/pilotproj/issues"
+  },
+  "homepage": "https://github.com/dguidini/pilotproj#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
